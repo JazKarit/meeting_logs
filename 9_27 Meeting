@@ -1,7 +1,9 @@
 Finished milestone 1
 
 Project responsibilites
-- Jaskrit and Jacob working on image recognition
+- Jaskrit and Jacob working on image recognition 
+        -> OpenCV
+        -> https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_watershed/py_watershed.html
 - Jaci works on SQL (if implementing that)
 - Beka, Vienna and Jaci work on Swift
 - NodeJS
